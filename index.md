@@ -73,3 +73,10 @@ layout: default
 
 　　总之，在斯威士兰搞定一张手机卡比想象中简单。带上护照、准备些现金，然后选择MTN作为你的首选。接下来，就安心享受这个王国独特的文化与风景吧，网络会成为你忠实的旅伴而非绊脚石。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Eswatini eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/eswatini-data-plans)
